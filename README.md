@@ -11,12 +11,12 @@ Juan Fernandez Diaz
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install foobar
+npm install
 ```
 
 ## Usage
 
-```python
+```javascript
 import foobar
 
 # returns 'words'

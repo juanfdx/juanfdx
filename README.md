@@ -43,7 +43,7 @@ npm start
 
 ## 💻 Built with
 
-<ul line-height="80%">
+<ul>
   <li><p color="#F16529">HTML 5</p></li>
   <li><p color="#1572B6">CSS 3</p></li>
   <li><p color="#F0DB4F">JAVASCRIPT</p></li>

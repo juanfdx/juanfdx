@@ -46,7 +46,7 @@ npm start
 <ul>
   <li>HTML 5</li>
   <li>CSS 3</li>
-  <li color: #F0DB4F >JAVASCRIPT</li>
+  <li color="#F0DB4F">JAVASCRIPT</li>
   <li>REACT</li>
 </ul>
 

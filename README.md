@@ -46,7 +46,7 @@ npm start
 - [Gatsby](https://www.gatsbyjs.com/)
 - [Tailwind CSS](https://tailwindcss.com/): for styling
 - [GSAP](https://greensock.com/gsap/): for small SVG Animations
-
+ <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 ## ☎ Hire me
 
 Contact me: juanfd@juan-fdez.com

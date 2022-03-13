@@ -1,4 +1,4 @@
-## Description
+##  Description
 
 Foobar is a Python library for dealing with word pluralization.
 
@@ -44,8 +44,8 @@ npm start
 - [Tailwind CSS](https://tailwindcss.com/): for styling
 - [GSAP](https://greensock.com/gsap/): for small SVG Animations
 
-## Hire me
+## ☎ Hire me
 
-juanfdx@gmail.com
+Contact me: juanfd@juan-fdez.com
 
 

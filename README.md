@@ -44,13 +44,12 @@ npm start
 ## 💻 Built with
 
 <ul>
-  <li><p color="#F16529">HTML5</p></li>
-  <li>CSS 3</li>
+  <li><p color="#F16529">HTML 5</p></li>
+  <li><p color="#1572B6">CSS 3</p></li>
   <li><p color="#F0DB4F">JAVASCRIPT</p></li>
-  <li>REACT</li>
+  <li><p color="#61DAFB">REACT</p></li>
 </ul>
 
-<p color="#F0DB4F"></p><p color="#F0DB4F"></p>
 ## ☎ Hire me
 
 Contact me: juanfd@juan-fdez.com

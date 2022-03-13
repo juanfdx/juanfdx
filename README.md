@@ -2,35 +2,45 @@
 
 Foobar is a Python library for dealing with word pluralization.
 
-## Author
+## 🧐 Author 
 
 Juan Fernandez Diaz
 
-## Installation
+## 🚀 Demo
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Try the tool: [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator)
+
+## 🛠️ Installation Steps
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/rahuldkjain/github-profile-readme-generator.git
+```
+
+2. Change the working directory
+
+```bash
+cd github-profile-readme-generator
+```
+
+3. Install dependencies
 
 ```bash
 npm install
 ```
 
-## Usage
+4. Run the app
 
-```javascript
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+```bash
+npm start
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+🌟 You are all set!
 
-Please make sure to update tests as appropriate.
+## 💻 Built with
+
+- [Gatsby](https://www.gatsbyjs.com/)
+- [Tailwind CSS](https://tailwindcss.com/): for styling
+- [GSAP](https://greensock.com/gsap/): for small SVG Animations
 

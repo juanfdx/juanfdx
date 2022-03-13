@@ -11,7 +11,7 @@ Juan Fernandez Diaz
 
 ## 🚀 Demo
 
-Try the web site: [tripadvisor clone](https://rahuldkjain.github.io/gh-profile-readme-generator)
+Try the web site:  [my-tripadvisor](https://my-tripadvisor.netlify.app/)
 
 ## 🛠️ Installation Steps
 
@@ -52,6 +52,6 @@ npm start
 
 ## ☎ Hire me
 
-Contact me: juanfd@juan-fdez.com
+Contact me:  [juanfd@juan-fdez.com](https://www.juan-fdez.com/contact)
 
 

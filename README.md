@@ -46,10 +46,11 @@ npm start
 <ul>
   <li>HTML 5</li>
   <li>CSS 3</li>
-  <li color="#F0DB4F">JAVASCRIPT</li>
+  <li><p color="#F0DB4F">JAVASCRIPT</p></li>
   <li>REACT</li>
 </ul>
 
+<p color="#F0DB4F"></p><p color="#F0DB4F"></p><p color="#F0DB4F"></p>
 ## ☎ Hire me
 
 Contact me: juanfd@juan-fdez.com

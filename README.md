@@ -44,10 +44,10 @@ npm start
 ## 💻 Built with
 
 <ul>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="39" height="39"/></li>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></li>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/></li>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="32" height="32"/></li>
+  <li>HTML 5</li>
+  <li>CSS 3</li>
+  <li>JAVASCRIPT</li>
+  <li>REACT</li>
 </ul>
 
 ## ☎ Hire me

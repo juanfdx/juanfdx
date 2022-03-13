@@ -6,6 +6,9 @@ Foobar is a Python library for dealing with word pluralization.
 
 Juan Fernandez Diaz
 
+- [LinkedIn](www.linkedin.com/in/juan-fernandez-diaz-461b9695)
+- [Portfolio](https://www.juan-fdez.com/portfolio)
+
 ## 🚀 Demo
 
 Try the tool: [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator)

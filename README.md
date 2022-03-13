@@ -44,3 +44,8 @@ npm start
 - [Tailwind CSS](https://tailwindcss.com/): for styling
 - [GSAP](https://greensock.com/gsap/): for small SVG Animations
 
+## Hire me
+
+juanfdx@gmail.com
+
+

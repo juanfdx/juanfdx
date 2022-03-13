@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @juanfdx
+- 👋 Hi, I’m Juan Fernandez Diaz
 - 👀 I’m interested in Fullstack development 
-- 📫 How to reach me: juanfdx@gmail.com
+- 📫 How to reach me: juanfd@juan-fdez.com

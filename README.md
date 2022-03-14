@@ -25,11 +25,9 @@ Frontend
 
 Backend
 
-<p>
-  <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-  
+  <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> 
   <img src="https://img.icons8.com/offices/48/000000/php-logo.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-</p>
+

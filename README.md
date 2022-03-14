@@ -19,7 +19,7 @@ Frontend
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img src="https://img.icons8.com/plasticine/50/000000/react.png"/>
-  <img src="https://img.icons8.com/color/46/000000/angularjs.png"/>
+  <img src="https://img.icons8.com/color/44/000000/angularjs.png"/>
 </p>
 Backend
 <p>

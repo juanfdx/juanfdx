@@ -18,7 +18,7 @@ Frontend
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
 </p>
 Backend

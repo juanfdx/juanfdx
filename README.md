@@ -18,8 +18,12 @@ Frontend
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
 </p>
 Backend
-
+<p>
+  <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+  <img src="https://img.icons8.com/offices/48/000000/php-logo.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
+</p>

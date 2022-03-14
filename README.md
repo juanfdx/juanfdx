@@ -1,4 +1,4 @@
-![frontend](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Development-San-Francisco-1.jpeg)
+![frontend](https://www.nettechnocrats.com/sanadm/BlogAdmin/uploads/who-is-a-full-stack-web-developer-and-what-skills-he-she-should-have-.jpg)
 
 <h1 align="center">Hi 👋, I'm Juan Fernandez Diaz</h1>
 <h3 align="center">Fullstack Developer</h3>

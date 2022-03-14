@@ -1,4 +1,5 @@
-![frontend](https://www.nettechnocrats.com/sanadm/BlogAdmin/uploads/who-is-a-full-stack-web-developer-and-what-skills-he-she-should-have-.jpg)
+
+![fullstack](/assets/images/fullstack1.jpg)
 
 <h1 align="center">Hi 👋, I'm Juan Fernandez Diaz</h1>
 <h3 align="center">Fullstack Developer</h3>

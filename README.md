@@ -32,6 +32,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> &nbsp; &nbsp;
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> &nbsp;
     <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="/images/jquery2.png"/>
   </p>
   
 

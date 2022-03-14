@@ -1,3 +1,5 @@
+![frontend](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Development-San-Francisco-1.jpeg)
+
 <h1 align="center">Hi 👋, I'm Juan Fernandez Diaz</h1>
 <h3 align="center">Fullstack Developer</h3>
 
@@ -7,9 +9,3 @@
 
 - 📄 Know about my experiences [https://www.juan-fdez.com/about](https://www.juan-fdez.com/about)
 
-<ul>
-  <li><p color="#F16529">HTML 5</p></li>
-  <li><p color="#1572B6">CSS 3</p></li>
-  <li><p color="#F0DB4F">JAVASCRIPT</p></li>
-  <li><p color="#61DAFB">REACT</p></li>
-</ul>

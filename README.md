@@ -10,6 +10,7 @@
 - 📄 Know about my experiences [https://www.juan-fdez.com/about](https://www.juan-fdez.com/about)
 
 ## My Skills
+
 Frontend
 <p>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -21,7 +22,9 @@ Frontend
   <img src="https://img.icons8.com/plasticine/52/000000/react.png"/>
   <img src="https://img.icons8.com/color/44/000000/angularjs.png"/>
 </p>
+
 Backend
+
 <p>
   <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
   <img src="https://img.icons8.com/offices/48/000000/php-logo.png"/>

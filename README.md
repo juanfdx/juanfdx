@@ -20,25 +20,25 @@
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-    <img src="/images/jquery.png"/ width="42px">
-    <img src="/images/react.png"/ width="42px"> &nbsp;
-    <img src="/images/angular.png"/ width="38px">
+    <img src="/images/jquery.png" width="42px" />
+    <img src="/images/react.png" width="42px" /> &nbsp;
+    <img src="/images/angular.png" width="38px" />
   </p>
 
 - Backend
    <p>
-    <img src="/images/node.png"/ width="48px"> &nbsp;
-    <img src="/images/php.png"/ width="50px"> &nbsp;
-    <img src="/images/laravel.png"/ width="40px"> &nbsp;
-    <img src="/images/mysql.png"/ width="42px"> &nbsp;
-    <img src="/images/mongo.png"/ width="42px">
+    <img src="/images/node.png" width="48px" /> &nbsp;
+    <img src="/images/php.png" width="50px" /> &nbsp;
+    <img src="/images/laravel.png" width="40px" /> &nbsp;
+    <img src="/images/mysql.png" width="42px" /> &nbsp;
+    <img src="/images/mongo.png" width="42px" />
   </p>
   
 ## Languages
 
   <p>
     <img src="/images/spain.png" width="48px" /> &nbsp;
-    <img src="/images/united-kingdom.png" width="48px" height="30px" /> 
+    <img src="/images/united-kingdom.png" width="48px" height="32px" /> 
   </p>
   
 

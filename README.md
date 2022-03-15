@@ -28,7 +28,7 @@
 - Backend
    <p>
     <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> &nbsp;
-  <img src="/images/php.png"/ width="42px">
+  <img src="/images/php.png"/ width="48px">
     <img src="https://img.icons8.com/offices/48/000000/php-logo.png"/> &nbsp;
     <img src="/images/laravel.png"/ width="40px"> &nbsp;
     <img src="/images/mysql.png"/ width="40px"> &nbsp;

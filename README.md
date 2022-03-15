@@ -30,7 +30,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> &nbsp;
     <img src="/images/php.png"/ width="50px"> &nbsp;
     <img src="/images/laravel.png"/ width="40px"> &nbsp;
-    <img src="/images/mysql.png"/ width="40px"> &nbsp;
+    <img src="/images/mysql.png"/ width="40px">
     <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   </p>
   

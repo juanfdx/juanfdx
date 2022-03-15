@@ -41,4 +41,6 @@
     <img src="/images/united-kingdom.png" width="48px" height="31px" /> 
   </p> 
   
+## Contact me
 
+  [juanfd@juan-fdez.com](https://www.juan-fdez.com/contact)

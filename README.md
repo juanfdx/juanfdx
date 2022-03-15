@@ -20,7 +20,7 @@
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/42/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png"/>
+    <img src="/images/jquery2.png"/ width="40px">
     <img src="https://img.icons8.com/plasticine/52/000000/react.png"/>
     <img src="https://img.icons8.com/color/44/000000/angularjs.png"/>
   </p>
@@ -32,7 +32,6 @@
     <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> &nbsp; &nbsp;
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> &nbsp;
     <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="/images/jquery2.png"/ width="40px">
   </p>
   
 

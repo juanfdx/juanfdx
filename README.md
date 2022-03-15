@@ -34,4 +34,9 @@
     <img src="/images/mongo.png"/ width="42px">
   </p>
   
+## Languages
+  <p>
+    <img src="/images/node.png"/ width="48px"> &nbsp;
+  </p>
+  
 

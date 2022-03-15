@@ -35,9 +35,10 @@
   </p>
   
 ## Languages
+
   <p>
     <img src="/images/spain.png"/ width="48px"> &nbsp;
-    <img src="/images/united-kingdom.png"/ width="52px"> 
+    <img src="/images/united-kingdom.png" width="48px" height="20px"/> 
   </p>
   
 

@@ -22,7 +22,7 @@
     <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
     <img src="/images/jquery2.png"/ width="40px">
     <img src="https://img.icons8.com/plasticine/52/000000/react.png"/>
-    <img src="https://img.icons8.com/color/44/000000/angularjs.png"/>
+    <img src="/images/angular.png"/ width="40px">
   </p>
 
 - Backend

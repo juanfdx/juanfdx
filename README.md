@@ -31,7 +31,7 @@
     <img src="/images/php.png"/ width="50px"> &nbsp;
     <img src="/images/laravel.png"/ width="40px"> &nbsp;
     <img src="/images/mysql.png"/ width="42px"> &nbsp;
-    <img src="/images/mongo.png"/ width="40px">
+    <img src="/images/mongo.png"/ width="42px">
   </p>
   
 

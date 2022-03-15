@@ -38,7 +38,7 @@
 
   <p>
     <img src="/images/spain.png" width="48px" /> &nbsp;
-    <img src="/images/united-kingdom.png" width="48px" height="32px" /> 
+    <img src="/images/united-kingdom.png" width="48px" height="31px" /> 
   </p>
   
 

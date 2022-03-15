@@ -36,7 +36,8 @@
   
 ## Languages
   <p>
-    <img src="/images/node.png"/ width="48px"> &nbsp;
+    <img src="/images/spain.png"/ width="48px"> &nbsp;
+    <img src="/images/united-kingdom.png"/ width="48px"> &nbsp;
   </p>
   
 

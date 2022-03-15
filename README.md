@@ -21,7 +21,7 @@
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
     <img src="/images/jquery.png"/ width="42px">
-    <img src="/images/react.png"/ width="42px">
+    <img src="/images/react.png"/ width="42px"> &nbsp;
     <img src="/images/angular.png"/ width="38px">
   </p>
 

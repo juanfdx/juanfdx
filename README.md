@@ -43,6 +43,4 @@
   
 ## Contact me
 
-   📧 [juanfd@juan-fdez.com](https://www.juan-fdez.com/contact)
-   
-    <br/>
+   📧 [juanfd@juan-fdez.com](https://www.juan-fdez.com/contact) <br/>

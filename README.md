@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.juan-fdez.com/resume](https://www.juan-fdez.com/resume)
 
-- 💼 my linkedIn [https://www.linkedin.com/in/juan-fdez-com/](https://www.linkedin.com/in/juan-fdez-com/)
+- 💼 my linkedIn [https://www.linkedin.com/in/juan-fdez-com](https://www.linkedin.com/in/juan-fdez-com)
 
 ## My Skills
 

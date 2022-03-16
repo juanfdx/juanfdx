@@ -6,13 +6,13 @@
 
 - 📫 How to reach me **https://www.juan-fdez.com/home**
 
-- 📄 Know about my [https://www.juan-fdez.com/about](https://www.juan-fdez.com/about)
+- 🙍‍♂️ Know about me [https://www.juan-fdez.com/about](https://www.juan-fdez.com/about)
 
 - 👨‍💻 All of my projects are available at [https://www.juan-fdez.com/portfolio](https://www.juan-fdez.com/portfolio)
 
-- 📄 Know about my experiences [https://www.juan-fdez.com/about](https://www.juan-fdez.com/resume)
+- 📄 Know about my experiences [https://www.juan-fdez.com/resume](https://www.juan-fdez.com/resume)
 
-- my linkedIn [https://linkedin.com/in/https://www.linkedin.com/in/juan-fdez-com](https://linkedin.com/in/https://www.linkedin.com/in/juan-fdez-com/)
+- 💼 my linkedIn [https://linkedin.com/in/https://www.linkedin.com/in/juan-fdez-com](https://linkedin.com/in/https://www.linkedin.com/in/juan-fdez-com/)
 
 ## My Skills
 

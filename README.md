@@ -27,7 +27,7 @@
     <img src="/images/jquery.png" width="42px" />
     <img src="/images/react.png" width="42px" /> &nbsp;
     <img src="/images/angular.png" width="37px" />
-  <img src="https://cdn.iconscout.com/icon/free/png-64/angular-2038881-1720094.png" width="37px" />
+  <img src="https://cdn.iconscout.com/icon/free/png-64/angular-2038881-1720094.png" width="40px" />
   </p>
 
 - Backend

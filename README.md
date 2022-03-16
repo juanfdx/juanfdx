@@ -19,7 +19,7 @@
     <img src="https://img.icons8.com/color/48/000000/sass.png"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
    
-  
+    <img src="/images/bootstrap.png" width="48px" />
     <img src="/images/javascript.png" width="48px" />
     <img src="/images/typescript.png" width="48px" />
     <img src="/images/jquery.png" width="42px" />

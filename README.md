@@ -10,8 +10,10 @@
 
 - 📄 Know about my experiences [https://www.juan-fdez.com/about](https://www.juan-fdez.com/about)
 
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-fdez-com/" height="20" width="20" />
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-fdez-com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-fdez-com/" height="10" width="10" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-fdez-com/" target="blank"></a>
 </p>
 
 ## My Skills

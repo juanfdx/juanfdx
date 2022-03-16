@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.juan-fdez.com/resume](https://www.juan-fdez.com/resume)
 
-- 💼 my linkedIn [www.linkedin.com/in/juan-fernandez-diaz-461b9695](www.linkedin.com/in/juan-fernandez-diaz-461b9695)
+- 💼 my linkedIn [https://www.linkedin.com/in/juan-fernandez-diaz-461b9695](https://www.linkedin.com/in/juan-fernandez-diaz-461b9695)
 
 ## My Skills
 

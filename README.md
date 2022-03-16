@@ -4,17 +4,13 @@
 <h1 align="center">Hi 👋, I'm Juan Fernandez Diaz</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.juan-fdez.com/portfolio](https://www.juan-fdez.com/portfolio)
-
 - 📫 How to reach me **https://www.juan-fdez.com/home**
+
+- 👨‍💻 All of my projects are available at [https://www.juan-fdez.com/portfolio](https://www.juan-fdez.com/portfolio)
 
 - 📄 Know about my experiences [https://www.juan-fdez.com/about](https://www.juan-fdez.com/about)
 
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-fdez-com/" height="20" width="20" />
-
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-fdez-com/" target="blank"></a>
-</p>
+- my linkedIn [https://linkedin.com/in/https://www.linkedin.com/in/juan-fdez-com](https://linkedin.com/in/https://www.linkedin.com/in/juan-fdez-com/)
 
 ## My Skills
 

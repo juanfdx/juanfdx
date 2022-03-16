@@ -14,7 +14,7 @@
 
 - Frontend
   <p>
-    <img src="/images/html5c.png" width="47px" /> 
+    <img src="/images/html5c.png" width="40px" /> 
     <img src="/images/css3.png" width="48px" /> 
     <img src="/images/sass.png" width="48px" /> 
     <img src="/images/bootstrap.png" width="48px" />

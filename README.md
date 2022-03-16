@@ -11,7 +11,7 @@
 - 📄 Know about my experiences [https://www.juan-fdez.com/about](https://www.juan-fdez.com/about)
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-fdez-com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-fdez-com/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-fdez-com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-fdez-com/" height="10" width="10" /></a>
 </p>
 
 ## My Skills

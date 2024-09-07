@@ -49,6 +49,6 @@
   
 ## Contact me
 
-   📧 [juanfd@juan-fdez.com](https://www.juan-fdez.com/contact) 
+   📧 [juanfdx@ideastradeweb.com](https://juanfdx.com/contact) 
    &nbsp;<br />
    &nbsp;<br />

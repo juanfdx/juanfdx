@@ -32,6 +32,7 @@
 - Backend
    <p>
     <img src="/images/node.png" width="48px" /> &nbsp;
+    <img src="/images/express.png" width="48px" /> &nbsp;
     <img src="/images/java.png" width="48px" /> &nbsp; 
     <img src="/images/spring-boot1.png" width="44px" /> &nbsp;    
     <img src="/images/php.png" width="50px" /> &nbsp;

@@ -50,6 +50,6 @@
   
 ## Contact me
 
-   📧 [juanfdx@ideastradeweb.com](https://juanfdx.com/contact) 
+   📧 [juanfdx@factorui.com](https://juanfdx.com/contact) 
    &nbsp;<br />
    &nbsp;<br />
